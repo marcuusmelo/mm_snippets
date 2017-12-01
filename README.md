@@ -13,4 +13,4 @@ Each project will and group of codes will be in a subdirecoty in this repo.
 
 
 
-##### For more information contact Marcus Melo
+##### FOR MORE INFORMATION, CONTACT MARCUS MELO
