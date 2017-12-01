@@ -3,6 +3,7 @@
 
 This is my Portfolio Repo
 Here you will find miscellaneous codes I wrote and some of my personal projects.
+
 Each project will and group of codes will be in a subdirecoty in this repo.
 
 ### Index:
@@ -12,4 +13,4 @@ Each project will and group of codes will be in a subdirecoty in this repo.
 
 
 
-#### For more information contact Marcus Melo
+##### For more information contact Marcus Melo
