@@ -1,6 +1,6 @@
-# Marcus VES Melo Portfolio
+# Marcus VES Melo Snippets Portfolio
 
-## mm_portfolio
+## mm_snippets
 
 Here you will find miscellaneous codes I wrote and some of my personal projects.
 
